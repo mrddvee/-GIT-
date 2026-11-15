@@ -31,11 +31,14 @@ https://github.com/mrddvee/DevOps_course/blob/270a708cb7ea1293565c647bd0271fa13d
 
 1. Создайте файл .gitignore (обратите внимание на точку в начале файла) и проверьте его статус сразу после создания.
 1. Добавьте файл .gitignore в следующий коммит `git add...`.
-1. Напишите правила в этом файле, чтобы игнорировать любые файлы `.pyc`, а также все файлы в директории `cache`.
+1. nano.
 1. Сделайте коммит и пуш.
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
+### Решение 2
+
+https://github.com/mrddvee/DevOps_course/blob/main/.gitignore
 ---
 
 ### Задание 3
@@ -56,6 +59,9 @@ https://github.com/mrddvee/DevOps_course/blob/270a708cb7ea1293565c647bd0271fa13d
 Ваш граф комитов должен выглядеть аналогично скриншоту:   
 
 ![скрин для Git](https://github.com/netology-code/sdvps-homeworks/assets/77622076/e73589cf-7e97-40e5-ac01-d1d55376f1b9)
+
+### Решение 3
+https://github.com/mrddvee/DevOps_course/network
 
 ---
 ## Дополнительные задания* (со звёздочкой)
